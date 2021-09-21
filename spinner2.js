@@ -16,6 +16,5 @@ for(const char of characters) {
 
 
 
-// setTimeout(() => {
-//   process.stdout.write('\n');
-// }, 2200);
+ setTimeout(() => {
+ process.stdout.write('\n'); }, delay + 200);
